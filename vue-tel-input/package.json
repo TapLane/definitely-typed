@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@types/vue-tel-input-types",
+  "name": "@types/vue-tel-input",
   "version": "9.5.0",
   "dependencies": {
     "vue": "^3.0.0"

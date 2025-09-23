@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "@types/vue-tel-input-types",
+  "version": "9.5.0",
+  "dependencies": {
+    "vue": "^3.0.0"
+  }
+}

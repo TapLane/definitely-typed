@@ -3,6 +3,6 @@
   "name": "@types/vue-tel-input",
   "version": "9.5.0",
   "dependencies": {
-    "vue": "^3.0.0"
+    "vue": "^3.5.22"
   }
 }
